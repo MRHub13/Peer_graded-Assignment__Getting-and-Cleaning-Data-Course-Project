@@ -16,5 +16,5 @@ The repository contains following documents:
    4. appropriately labels the data set with descriptive variable names 
    5. from the data set in step 4., creates a second, independent tidy data set with the
 average of each variable for each activity and each subject
-* `FinalData.txt` … a final tidy data set &
+* `FinalData.txt` … a final tidy data set file &
 * `README.md` file
