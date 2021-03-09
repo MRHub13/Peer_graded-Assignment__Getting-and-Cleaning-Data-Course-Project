@@ -1,5 +1,4 @@
 ## Step 0 ... Preparation
-
 library(dplyr)
 filename <- "getdata_projectfiles_UCI HAR Dataset.zip"
 
@@ -56,5 +55,5 @@ names(T_Data)<-gsub("gravity", "Gravity", names(T_Data))
 F_Data <- T_Data %>%
         group_by(subject, activity) %>%
         summarise_all(list(mean))
-write.table(F_Data, "FinalData.csv", row.name=FALSE)
+write.table(F_Data, "FinalData.txt", row.name=FALSE)
 
