@@ -6,7 +6,7 @@
 This repository is a MRHub13 submission for Peer-graded Assignment in
 Getting and Cleaning Data Course Project. 
 
-The repository contains following documents and folders:
+The repository contains following documents:
 
 * `CodeBook.md` document which describes all variables and data in the script `run_analysis.R` as well as transformations and work that I performed to clean up the data
 * `run_analysis.R` … the script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
