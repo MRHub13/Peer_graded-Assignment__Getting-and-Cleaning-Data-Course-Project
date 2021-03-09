@@ -3,7 +3,7 @@
 
 ## 
 
-This repository is a MRHub13 submission for Peer-graded Assignment in
+This repository is my submission for Peer-graded Assignment in
 Getting and Cleaning Data Course Project. 
 
 The repository contains following documents:
